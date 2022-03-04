@@ -1,0 +1,21 @@
+{
+    "name": "shkooby-inu-NFT-whitepaper",
+    "version": "0.1.0",
+    "description": "This is the whitepaper for our community driven [Meme Token](https://shkoobyinu.com/).",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/thecoolagency/shkooby-inu-docs.git"
+    },
+    "author": "Magnus Deppe",
+    "license": "ISC",
+    "dependencies": {
+        "gitbook-plugin-custom-js-css": "^0.0.1",
+        "gulp": "^4.0.2",
+        "gulp-gh-pages": "^0.5.4",
+        "gulp-load-plugins": "^2.0.3"
+    }
+}
