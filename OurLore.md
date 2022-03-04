@@ -1,4 +1,0 @@
-# Our Lore
----
-
-## Coming soon
