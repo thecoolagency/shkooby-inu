@@ -15,14 +15,9 @@ h1#shkooby-inu + p {
     text-align: center;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal code {
-
-}
-
 .page-inner {
     max-width: 100%;
     margin: 0 14rem;
-
 }
 
 .navigation {
@@ -50,4 +45,15 @@ h1#shkooby-inu + p {
     overflow: hidden;
     white-space: nowrap;
     position: relative;
+}
+
+@media screen and (max-width: 750px){
+
+.page-inner {
+    max-width: 100%;
+    margin: 0 4rem;
+
+}
+
+
 }
